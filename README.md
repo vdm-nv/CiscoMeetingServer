@@ -1,7 +1,7 @@
 # CiscoMeetingServer
 use Python and API for CMS
 
-in script you need to insert:
+In script you need to insert your actual information:
 
 URL = 'https://{IP_CMS}:{PORT}/api/v1/coSpaces/' where :
   - {IP_CMS} - ip address of your Cisco Meeting Server
@@ -11,6 +11,11 @@ headers = {
   'Authorization': 'Basic {Get Password from Postman app}'
 }
   - {Get Password from Postman app} copy authorization code from Postman app
+  
+  You can use for:
+  
+  put_passcode_cospace.py - changing password in your CoSpace 
+  get_cospace_setting.py - show detailed settings for your cospace
 
 ## Requirements:
  - python 3
