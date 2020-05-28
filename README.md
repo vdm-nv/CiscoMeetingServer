@@ -10,7 +10,7 @@ URL = 'https://{IP_CMS}:{PORT}/api/v1/coSpaces/' where :
 headers = {
   'Authorization': 'Basic {Get Password from Postman app}'
 }
-  - {Get Password from Postman app} copy from Postman app
+  - {Get Password from Postman app} copy authorization code from Postman app
 
 ## Requirements:
  - python 3
