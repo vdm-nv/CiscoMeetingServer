@@ -8,4 +8,4 @@ use Python and API for CMS
 
 ## Installation:
 	pip install requests
-  pip install xmltodict
+ 	pip install xmltodict
