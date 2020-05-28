@@ -14,7 +14,8 @@ headers = {
   
   You can use for:
   
-  put_passcode_cospace.py - changing password in your CoSpace 
+  put_passcode_cospace.py - changing password in your CoSpace
+  
   get_cospace_setting.py - show detailed settings for your cospace
 
 ## Requirements:
