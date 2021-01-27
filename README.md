@@ -28,5 +28,5 @@ headers = {
 	pip install requests
  	pip install xmltodict
 ## Examples:
-python put_passcode_cospace.py
+python add_net_object_ftd.py 
 
