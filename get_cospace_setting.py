@@ -12,6 +12,7 @@ URL = 'https://{IP_CMS}:{PORT}/api/v1/coSpaces/'
 
 headers = {
   'Authorization': 'Basic {Get Password from Postman app}',
+  'Content-Type': 'application/x-www-form-urlencoded'
 }
 
 
